@@ -4,15 +4,15 @@ body {
     margin: 0 auto;
     padding: 20px;
    background: radial-gradient(116.49% 113.86% at 0% 100%, #1B45FF 40.62%, #5F14AF 100%) /* warning: gradient uses a rotation that is not supported by CSS and may not behave as expected */;
-
+    color:white;
 }
 
 h1, h2, h3 {
-    color: #2c3e50;
+    color: white;
 }
 
 a {
-    color: #3498db;
+    color: white;
     text-decoration: none;
 }
 
