@@ -1,10 +1,8 @@
 ---
 layout: cv
-title: Имя Фамилия
+title: Ли Александр
 ---
 
-# Имя Фамилия
-[Адрес электронной почты](mailto:email@example.com) | [Веб-сайт/Портфолио](https://example.com) | [LinkedIn](https://www.linkedin.com/in/username) | [GitHub](https://github.com/username)
 
 ## Образование
 
