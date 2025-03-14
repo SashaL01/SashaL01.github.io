@@ -2,7 +2,7 @@
 layout: cv
 title: Ли Александр
 ---
-Ли Александр
+<link rel="stylesheet" type="text/css" href="assets/css/style.css">
 
 ## Образование
 
