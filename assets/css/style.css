@@ -3,7 +3,8 @@ body {
     max-width: 800px;
     margin: 0 auto;
     padding: 20px;
-    background-color: #f4f4f4;
+   background: radial-gradient(116.49% 113.86% at 0% 100%, #1B45FF 40.62%, #5F14AF 100%) /* warning: gradient uses a rotation that is not supported by CSS and may not behave as expected */;
+
 }
 
 h1, h2, h3 {
